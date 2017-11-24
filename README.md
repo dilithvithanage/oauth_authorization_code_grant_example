@@ -2,7 +2,7 @@
 A sample application to demonstrate OAuth authorization code grant type with client, authorization server and resource server<br/>
 <br/>
 This is a Maven spring project written in Java<br/>
-Issue mvn spring-boot:run to run each server <br/>
+Issue mvn spring-boot:run to run each server (Where the pom.xml is located)<br/>
 <br/>
 Client app runs on http://localhost:9003<br/>
 Authorization server runs on http://localhost:9002<br/>
@@ -12,4 +12,7 @@ You can change the running port manualy <br/>
 <br/>
 Client app <br/>
 username - kamal <br/>
-password - xyz
+password - xyz <br/>
+<br/>
+Refer this blog for more details<br/>
+https://techeye7.wordpress.com/2017/11/24/oauth-2-authorization-code-grant-type-example/
