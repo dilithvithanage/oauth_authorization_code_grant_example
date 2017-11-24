@@ -8,4 +8,8 @@ Client app runs on http://localhost:9003<br/>
 Authorization server runs on http://localhost:9002<br/>
 Resource server runs on http://localhost:9001<br/>
 <br/>
-You can change the running port manualy
+You can change the running port manualy <br/>
+<br/>
+Client app <br/>
+username - kamal <br/>
+password - xyz
